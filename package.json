@@ -7,5 +7,23 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Claudio Procida",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "airswarm": "^1.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudiopro/airbee.git"
+  },
+  "keywords": [
+    "airswarm",
+    "swarm",
+    "p2p",
+    "peer"
+  ],
+  "bugs": {
+    "url": "https://github.com/claudiopro/airbee/issues"
+  },
+  "homepage": "https://github.com/claudiopro/airbee#readme"
 }
